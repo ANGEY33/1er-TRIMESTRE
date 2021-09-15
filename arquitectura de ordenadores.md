@@ -1,0 +1,3 @@
+# arquitectura de ordenadores
+
+gg
