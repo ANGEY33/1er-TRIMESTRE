@@ -16,4 +16,4 @@ Enlace al github del profesor
 https://github.com/d-prieto/ 
 
 
-(https://github.com/d-prieto/)
+ [github del profesor](https://github.com/d-prieto/)
