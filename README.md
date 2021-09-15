@@ -3,7 +3,7 @@
 
 ## Bienvenidos
 
-Soy ....
+Soy angel
 
 angey
 me gustan lo platanos maduros
@@ -13,4 +13,6 @@ unas ganas de meterme un palo por el culo
 
 Enlace al github del profesor
 
-Imagen
+https://github.com/d-prieto/ 
+
+[https://github.com/d-prieto/]
