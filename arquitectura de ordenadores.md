@@ -4,6 +4,11 @@ aqui estan los apuntes sobre arquitectura de ordenadores
 
 [arquitectura](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
+## índice
+
+[clase de binario] 
+
+
 ## Clase de BINARIO
 BINARIO(2)
 
