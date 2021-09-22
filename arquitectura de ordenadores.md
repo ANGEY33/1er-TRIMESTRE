@@ -29,7 +29,7 @@ BINARIO(2)
 
 10-1010
 
-# notación binaria
+notación binaria
 
 06 0111100110 (06 se utiliza para decirle a un ordenador que un numero esta en binario
 
