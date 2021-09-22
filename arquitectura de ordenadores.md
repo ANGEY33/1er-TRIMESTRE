@@ -32,7 +32,7 @@ Es un componente que permite a su ordenador almacenar datos a corto plazo
 
 ## CREACÍON DE UN ORDENADOR
  
- # componentes
+ ### componentes
 
 Torre: Tempest Spook RGB USB 3.0 con Ventana Negro
 
