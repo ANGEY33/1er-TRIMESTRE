@@ -48,7 +48,10 @@ Memoria RAM: 8GB DDR4 2666Mhz
 
 Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5
 
+## TECLADOS 
+Son dispositivos de entrada. Activados por pulsación de teclas incorporan un circito integrado que se comunica con el PC
 
+Su conexión es USB y antiguamente PS/2Su función es la de ser el cerebro de todo el funcionamiento del sistema, siendo el encargado de dirigir todas las tareas que lleva a cabo nuestro equipo y de ejecutar el código de los diferentes programas, muchas veces con la ayuda conjunta del resto de componentes y periféricos.
 
 ## Clase de BINARIO
 BINARIO(2)
