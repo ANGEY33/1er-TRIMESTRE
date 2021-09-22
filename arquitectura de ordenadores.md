@@ -34,7 +34,9 @@ BINARIO(2)
 1 000 000 ¿Cómo es en numero binario?
 11110100001001000000
 
-¿ Cuantas cifras tiene? 20
+¿ Cuantas cifras tiene? 17
+tiene 
+
 
 
 
