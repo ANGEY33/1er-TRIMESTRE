@@ -5,8 +5,8 @@
 
 
 ## arquitectura de ordenadores  texto,enlaces fotos
-
-[] (!/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-34-29.png)
+)
+[](!imagen)(/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-34-29.png)
 
 
 
