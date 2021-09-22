@@ -1,4 +1,4 @@
-## arquitectura de ordenadores
+## arquitectura de ordenadores  texto,enlaces fotos
 
 aqui estan los apuntes sobre arquitectura de ordenadores
 
