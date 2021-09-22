@@ -46,6 +46,8 @@ Memoria RAM: 8GB DDR4 2666Mhz
 
 Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5
 
+
+
 ## Clase de BINARIO
 BINARIO(2)
 
