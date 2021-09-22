@@ -6,7 +6,12 @@
 
 ## arquitectura de ordenadores  texto,enlaces fotos
 
-aqui estan los apuntes sobre arquitectura de ordenadores
+ el esquema basico de funcionamiento
+ el funcuinamiento básico de un ordenador puede expresarse mediante el siguiente esquema
+ 
+
+
+
 
 [arquitectura](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
