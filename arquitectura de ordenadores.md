@@ -6,7 +6,7 @@
 
 ## arquitectura de ordenadores  texto,enlaces fotos
 
- PORTÁTIL
+ PORTÁTIL.
  
  transformador externo (externo)
  
@@ -14,6 +14,10 @@
  
  bateria (interno)
  
+ MICROPROCESADOR
+ El microprocesador es un circuito integradoformado por millones de transistores, cuya función es procesar los datos y las instruccionesque recibe de la memoria RAM.
+
+
  
 [arquitectura](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
@@ -45,13 +49,13 @@ BINARIO(2)
 
 ### notación binaria
 
-06 0111100110 (06 se utiliza para decirle a un ordenador que un numero esta en binario
+06 0111100110 (06 se utiliza para decirle a un ordenador que un numero esta en binario)
 
 para hexadecimal sec escribe 0x
 
 ### Convertir mumeros en letras
 
-Existen códigos que convierten numeros en letras
+Existen códigos que convierten numeros en letras.
 
 ASCII (antiguo) tiene 255 valores y caracteres latinos (no tuiene ñ)
 
