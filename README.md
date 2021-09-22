@@ -5,8 +5,6 @@
 
  hola soy angel
 
-Enlace al github del profesor
-
 https://github.com/d-prieto/ 
 
 
