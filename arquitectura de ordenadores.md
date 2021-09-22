@@ -35,12 +35,11 @@ Conversor https://es.convertbinary.com/decimal-a-binario/
 1 000 000 ¿Cómo es en numero binario?
 11110100001001000000
 
-¿ Cuantas cifras tiene? 17
-
+¿ Cuantas cifras tiene?
+17
 
 ¿Cuanto es en decimal? 11100110011001
 14745
-
 Conversor https://es.convertbinary.com/binario-a-decimal/
  
 
