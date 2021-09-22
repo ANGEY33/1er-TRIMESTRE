@@ -38,7 +38,14 @@ para hexadecimal sec escribe 0x
 ### Convertir mumeros en letras
 
 Existen códigos que convierten numeros en letras
+
 ASCII (antiguo) tiene 255 valores y caracteres latinos (no tuiene ñ)
+
+A: 011000
+
+a: 0610100
+
+Unicode: hasta 1000 000 caracteres
 
 
 
