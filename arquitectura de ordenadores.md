@@ -6,7 +6,7 @@ aqui estan los apuntes sobre arquitectura de ordenadores
 
 ## índice
 
-[clase de binario] 
+[clase de binario] (https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
 
 
 ## Clase de BINARIO
