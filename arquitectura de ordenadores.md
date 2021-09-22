@@ -48,7 +48,7 @@ Memoria RAM: 8GB DDR4 2666Mhz
 
 Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5
 
-PRECIOTOTAL:886,82€
+PRECIO TOTAL:886,82€
 
 ## TECLADOS 
 Son dispositivos de entrada. Activados por pulsación de teclas incorporan un circito integrado que se comunica con el PC
