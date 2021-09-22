@@ -40,6 +40,7 @@ Conversor https://es.convertbinary.com/decimal-a-binario/
 
 ¿Cuanto es en decimal? 11100110011001
 14745
+
 Conversor https://es.convertbinary.com/binario-a-decimal/
  
 
