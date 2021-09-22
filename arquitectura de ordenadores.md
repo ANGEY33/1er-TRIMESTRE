@@ -34,19 +34,19 @@ Es un componente que permite a su ordenador almacenar datos a corto plazo
  
  ### componentes
 
-Torre: Tempest Spook RGB USB 3.0 con Ventana Negro
+Torre: Tempest Spook RGB USB 3.0 con Ventana Negro:39,99€
 
-Fuente de alimentación: 450W / 600W  (Según disponibilidad)
+Fuente de alimentación: 450W / 600W:34€
 
-Placa base: MSI MAG B460M MORTAR
+Placa base: MSI MAG B460M MORTAR:125,95€
 
-Procesador: Intel Core i5-10400F 2.9GHz
+Procesador: Intel Core i5-10400F 2.9GHz:179,90€
 
-Disco DuroSSD 480GB
+Disco DuroSSD 480GB:42,99€
 
-Memoria RAM: 8GB DDR4 2666Mhz 
+Memoria RAM: 8GB DDR4 2666Mhz:89,99€
 
-Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5
+Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5:244,60€
 
 PRECIO TOTAL:886,82€
 
