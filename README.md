@@ -21,3 +21,4 @@ https://github.com/d-prieto/
 
 (https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mecanografia.md)
 
+[Clase de binario] (https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
