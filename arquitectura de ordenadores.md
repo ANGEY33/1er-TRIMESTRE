@@ -4,7 +4,7 @@ aqui estan los apuntes sobre arquitectura de ordenadores
 
 [arquitectura](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
-
+## Clase de BINARIO
 BINARIO(2)
 
 0-0
@@ -36,6 +36,8 @@ BINARIO(2)
 
 ¿ Cuantas cifras tiene? 17
 tiene 
+
+
 
 
 
