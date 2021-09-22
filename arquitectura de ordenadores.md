@@ -29,5 +29,8 @@ BINARIO(2)
 
 10-1010
 
+ conversor https://es.convertbinary.com/decimal-a-binario/
+ 
 1 000 000 ¿Cómo es en numero binario?
 11110100001001000000
+
