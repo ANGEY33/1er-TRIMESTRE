@@ -29,6 +29,7 @@ BINARIO(2)
 
 10-1010
 
+### EJERCICIOS DE CONVERSION
  conversor https://es.convertbinary.com/decimal-a-binario/
  
 1 000 000 ¿Cómo es en numero binario?
@@ -37,7 +38,7 @@ BINARIO(2)
 ¿ Cuantas cifras tiene? 17
 tiene 
 
-
+ 
 
 
 
