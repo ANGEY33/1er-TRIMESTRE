@@ -37,7 +37,6 @@ Conversor https://es.convertbinary.com/decimal-a-binario/
 
 ¿ Cuantas cifras tiene? 17
 
-¿Quién lo dijo?
 
 ¿Cuanto es en decimal? 11100110011001
 14745
