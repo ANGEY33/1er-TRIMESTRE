@@ -13,7 +13,7 @@
  fuentes de alimentacion (interno)
  
  bateria (interno)
- 
+
  MICROPROCESADor
  
  El microprocesador es un circuito integradoformado por millones de transistores, cuya función es procesar los datos y las instruccionesque recibe de la memoria RAM.
