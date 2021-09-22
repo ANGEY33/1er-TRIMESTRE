@@ -32,8 +32,8 @@ Es un componente que permite a su ordenador almacenar datos a corto plazo
 
 ## CREACÍON DE UN ORDENADOR
  
- 
- 
+ # componentes
+
 Torre: Tempest Spook RGB USB 3.0 con Ventana Negro
 
 Fuente de alimentación: 450W / 600W  (Según disponibilidad)
