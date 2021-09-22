@@ -21,6 +21,30 @@ el  microprocesador  genera  una  gran  cantidad  de calorque  es  necesario  ev
 
 [arquitectura](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
+### PREOCESADOR 
+
+
+### RAM
+
+
+
+## CREACÍON DE UN ORDENADOR
+ 
+ 
+ 
+Torre: Tempest Spook RGB USB 3.0 con Ventana Negro
+
+Fuente de alimentación: 450W / 600W  (Según disponibilidad)
+
+Placa base: MSI MAG B460M MORTAR
+
+Procesador: Intel Core i5-10400F 2.9GHz
+
+Disco DuroSSD 480GB
+
+Memoria RAM: 8GB DDR4 2666Mhz 
+
+Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5
 
 ## Clase de BINARIO
 BINARIO(2)
@@ -56,7 +80,7 @@ para hexadecimal sec escribe 0x
 ### Convertir mumeros en letras
 
 Existen códigos que convierten numeros en letras.
-
+H
 ASCII (antiguo) tiene 255 valores y caracteres latinos (no tuiene ñ)
 
 A: 011000
