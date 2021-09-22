@@ -8,9 +8,9 @@
 
  PORTÁTIL
  
- transformador externo (ecterno)
+ transformador externo (externo)
  
- fuentes de alimentacion (interno)+
+ fuentes de alimentacion (interno)
  
  bateria (interno)
  
