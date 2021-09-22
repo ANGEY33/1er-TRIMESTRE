@@ -9,7 +9,7 @@
  el esquema basico de funcionamiento
  el funcuinamiento básico de un ordenador puede expresarse mediante el siguiente esquema
  
-!() (/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-34-29.png)
+! (/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-34-29.png)
 
 
 
