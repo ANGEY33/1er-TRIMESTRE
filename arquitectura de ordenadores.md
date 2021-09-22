@@ -26,7 +26,7 @@ el  microprocesador  genera  una  gran  cantidad  de calorque  es  necesario  ev
 
 ### RAM
 
-
+Es un componente que permite a su ordenador almacenar datos a corto plazo 
 
 ## CREACÍON DE UN ORDENADOR
  
