@@ -57,6 +57,16 @@ fuente: pdf de clase.
 
 Un disco duro es una unidad de hardware que se usa para almacenar contenido y datos digitales en los ordenadores. Todas los ordenadores tienen un disco duro interno.
 
+Convenciones:
+
+FAT  
+FAT32 (WINDOWS)
+NFTS
+
+EXT
+EXT3  (LINUX)
+EXT4
+
 ### FORMATEO Y SECTORES
 
 Tengo un disco duro magnético de 100 Gbytes. ¿Cúantos sectores tiene si cada sector es de 512 bytes?
