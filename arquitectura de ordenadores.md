@@ -30,6 +30,11 @@ Su función es la de ser el cerebro de todo el funcionamiento del sistema, siend
 
 Es un componente que permite a su ordenador almacenar datos a corto plazo 
 
+### TARJETA GRÁFICA
+
+La función básica de una tarjeta gráfica es convertir la información procesada por el ordenador, 
+o la propia tarjeta
+
 ## CREACÍON DE UN ORDENADOR
  
  ### componentes
