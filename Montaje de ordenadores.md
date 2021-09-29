@@ -12,13 +12,10 @@
 
 ### Que habeis aprendido
 
+## INVESTIGACIÓ
+
 ### ¿De que año es el ordenador?
 
-### Descripción de los conponentes
-
-### ¿Funcionaria el ordenador?
+### ¿Funcionaría el ordenador?
 
 ### ¿Le faltan piezas?
-Le falta el disco duro
-
-## INVESTIGACIÓ
