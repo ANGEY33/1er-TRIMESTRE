@@ -8,9 +8,9 @@ Angel,Stiven,Christian,
 ### Quién fue el fotagrafo
 
 ### Proceso de desmontaje
-Primero quitamos los tornillos y luego los componentes
+Primero quitamos los tornillos y luego los componentes.
 ### Proceso de montaje
-
+ 
 ### Que habeis aprendido
 He aprendido a montar y desmontar un ordenador.
 
