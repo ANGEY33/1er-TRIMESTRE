@@ -51,6 +51,8 @@ para obtener la imagen final.
 
 fuente; pdf de clase.
 
+### DISCO DURO
+
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
 
 yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
