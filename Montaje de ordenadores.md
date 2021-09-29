@@ -1,3 +1,3 @@
-### DOCUMENTACIÓN
+## DOCUMENTACIÓN
 
-## Personas en el equipo
+### Personas en el equipo
