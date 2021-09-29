@@ -65,10 +65,7 @@ FAT32     (WINDOWS)
 
 NFTS
 
-
-
-
-
+----------
 
 EXT
 
