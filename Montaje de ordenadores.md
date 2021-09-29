@@ -14,8 +14,7 @@
 
 ### Descripción de los conponentes
 
-### ¿Funcionaria el ordenador?
-
+### ¿Funcionaria el ordenador
 ### ¿Le faltan piezas?
 Le falta el disco duro
 
