@@ -12,6 +12,8 @@
 
 ### Que habeis aprendido
 
+### ¿De que año es el ordenador?
+
 ### Descripción de los conponentes
 
 ### ¿Funcionaria el ordenador?
@@ -20,4 +22,3 @@
 Le falta el disco duro
 
 ## INVESTIGACIÓ
-
