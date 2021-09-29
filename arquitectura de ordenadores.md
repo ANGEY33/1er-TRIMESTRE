@@ -55,17 +55,17 @@ fuente; pdf de clase.
 
 yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
-Procesador: GeForce GTX 1050 Ti
+Procesador: eForce GTX 1050 Ti
 
-Memoria: 4 GB
+Memoria: 4GB
 
-Tipo:
+Tipo: GDR5
 
-Cantidad:
+Cantidad: 128 bit
 
-velocidad:
+velocidad:7008 MHz
 
-Salidas:
+Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
 
 
 
