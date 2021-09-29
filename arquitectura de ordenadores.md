@@ -44,6 +44,8 @@ El procesador gráfico,La memoria gráfica,El tipo de interfaz,Tipos de conexion
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
 
+
+
 ## CREACÍON DE UN ORDENADOR
  
  ### componentes
