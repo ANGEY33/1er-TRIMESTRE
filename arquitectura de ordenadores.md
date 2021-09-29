@@ -53,6 +53,8 @@ fuente: pdf de clase.
 
 ### DISCO DURO
 
+
+
 ### FORMATEO Y SECTORES
 
 Tengo un disco duro magnético de 100 Gbytes. ¿Cúantos sectores tiene si cada sector es de 512 bytes?
@@ -60,6 +62,8 @@ Tengo un disco duro magnético de 100 Gbytes. ¿Cúantos sectores tiene si cada 
 100GB = 102 400MG = 104.857.600KB
 
 107.374.182.400 gbytes-512 Gbyte = 209.715.200 sectores
+
+Aproximadamente 209 millones de sectores.
 
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
