@@ -33,7 +33,10 @@ Es un componente que permite a su ordenador almacenar datos a corto plazo
 ### TARJETA GRÁFICA
 
 La función básica de una tarjeta gráfica es convertir la información procesada por el ordenador, 
-o la propia tarjeta
+o la propia tarjeta.
+
+consisten en una placa de circuito impreso, cuyo circuito electrónico es casi 
+un miniordenador, pues incluye su propio procesador gráfico y su propia memoria RAM. 
 
 ## CREACÍON DE UN ORDENADOR
  
