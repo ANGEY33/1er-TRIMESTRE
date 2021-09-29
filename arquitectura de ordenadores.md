@@ -49,9 +49,11 @@ fuente: pdf de clase.
 Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
 para obtener la imagen final.
 
-fuente; pdf de clase.
+fuente: pdf de clase.
 
 ### DISCO DURO
+
+
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
 
