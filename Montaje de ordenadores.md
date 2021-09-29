@@ -12,7 +12,7 @@ Primero quitamos los tornillos y luego los componentes
 ### Proceso de montaje
 
 ### Que habeis aprendido
-E aprendido a montar y desmontar un ordenador.
+He aprendido a montar y desmontar un ordenador.
 
 ### Descripción componentes
 
