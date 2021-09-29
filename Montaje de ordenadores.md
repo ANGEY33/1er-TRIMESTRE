@@ -12,7 +12,7 @@
 
 ### Que habeis aprendido
 
-## INVESTIGACIÓ
+## INVESTIGACIÓN
 
 ### ¿De que año es el ordenador?
 
