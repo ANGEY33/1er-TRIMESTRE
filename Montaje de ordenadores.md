@@ -1,7 +1,7 @@
 ## DOCUMENTACIÓN
 
 ### Personas en el equipo
-Angel
+
 
 ### Quién fue el fotagrafo
 
