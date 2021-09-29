@@ -3,6 +3,7 @@
 ## DOCUMENTACIÓN
 
 ### Personas en el equipo
+Angel,C
 
 ### Quién fue el fotagrafo
 
