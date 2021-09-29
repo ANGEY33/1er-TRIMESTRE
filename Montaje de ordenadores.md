@@ -3,7 +3,7 @@
 ## DOCUMENTACIÓN
 
 ### Personas en el equipo
-Angel,
+
 ### Quién fue el fotagrafo
 
 ### Proceso de desmontaje
@@ -17,6 +17,7 @@ Angel,
 ### ¿Funcionaria el ordenador?
 
 ### ¿Le faltan piezas?
+Le falta el disco duro
 
 ## INVESTIGACIÓ
 
