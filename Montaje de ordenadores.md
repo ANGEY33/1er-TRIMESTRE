@@ -1,7 +1,7 @@
 ## DOCUMENTACIÓN
 
 ### Personas en el equipo
-dghjjgdhk
+SSk
 
 ### Quién fue el fotagrafo
 
