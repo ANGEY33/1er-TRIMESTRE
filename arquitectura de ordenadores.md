@@ -38,6 +38,10 @@ o la propia tarjeta.
 consisten en una placa de circuito impreso, cuyo circuito electrónico es casi 
 un miniordenador, pues incluye su propio procesador gráfico y su propia memoria RAM. 
 
+Las características principales de una tarjeta gráfica son las siguientes:
+
+El procesador gráfico,La memoria gráfica,El tipo de interfaz,Tipos de conexiones externas.
+
 ## CREACÍON DE UN ORDENADOR
  
  ### componentes
