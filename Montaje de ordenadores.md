@@ -3,10 +3,10 @@
 ## DOCUMENTACIÓN
 
 ### Personas en el equipo
-Angel,Stiven,Christian,
+Angel,Stiven,Christian y David
 
 ### Quién fue el fotagrafo
-
+El fotografo fue Dvid
 ### Proceso de desmontaje
 Primero quitamos los tornillos y luego los componentes.
 ### Proceso de montaje
