@@ -12,13 +12,14 @@ Angel,C
 ### Proceso de desmontaje
 
 ### Que habeis aprendido
+E aprendido a montar y desmontar un ordenador.
 
 ### Descripción componentes
 
 ## INVESTIGACIÓN
 
 ### ¿De que año es el ordenador?
-El ordenador es de 2004 aproximadamente
+El ordenador es de 2004 aproximadamente.
 ### ¿Funcionaría el ordenador?
 No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
