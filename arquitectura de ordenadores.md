@@ -46,6 +46,8 @@ fuente: pdf de clase.
 
 ### GPU
 
+Un disco duro es una unidad de hardware que se usa para almacenar contenido y datos digitales en los ordenadores. Todas los ordenadores tienen un disco duro interno.
+
 Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
 para obtener la imagen final.
 
