@@ -3,7 +3,7 @@
 ## DOCUMENTACIÓN
 
 ### Personas en el equipo
-Angel,C
+Angel,Stiven
 
 ### Quién fue el fotagrafo
 
