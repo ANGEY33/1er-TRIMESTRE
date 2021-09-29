@@ -59,6 +59,8 @@ Tengo un disco duro magnético de 1004 bytes. ¿Cúantos sectores tiene si cada 
 
 100GB = 102 400MG = 104.857.600KB
 
+107.374.182.400 gbytes-512 byte = 209.715.200 sectores
+
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
 
