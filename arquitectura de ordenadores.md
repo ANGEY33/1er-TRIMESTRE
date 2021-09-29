@@ -59,12 +59,16 @@ Un disco duro es una unidad de hardware que se usa para almacenar contenido y da
 
 Convenciones:
 
-FAT  
-FAT32 (WINDOWS)
+FAT 
+
+FAT32     (WINDOWS)
 NFTS
 
+
 EXT
-EXT3  (LINUX)
+
+EXT3      (LINUX) 
+
 EXT4
 
 ### FORMATEO Y SECTORES
