@@ -17,7 +17,7 @@
 ## INVESTIGACIÓN
 
 ### ¿De que año es el ordenador?
-El ordenador es de 2.004
+El ordenador es de 2004 aproximadamente
 ### ¿Funcionaría el ordenador?
 No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
