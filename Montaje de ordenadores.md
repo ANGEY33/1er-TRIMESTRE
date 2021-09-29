@@ -1,6 +1,6 @@
 # MONTAJE DE OREDENADORES
 
-# DOCUMENTACIÓN
+## DOCUMENTACIÓN
 
 ### Personas en el equipo
 Angel,
