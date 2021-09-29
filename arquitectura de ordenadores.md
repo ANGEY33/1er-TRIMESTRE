@@ -55,7 +55,7 @@ fuente: pdf de clase.
 
 ### DISCO DURO
 
-
+Un disco duro es una unidad de hardware que se usa para almacenar contenido y datos digitales en los ordenadores. Todas los ordenadores tienen un disco duro interno.
 
 ### FORMATEO Y SECTORES
 
