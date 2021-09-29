@@ -8,7 +8,7 @@ Angel,Stiven,Christian,
 ### Quién fue el fotagrafo
 
 ### Proceso de desmontaje
-
+Primero quitamos los tornillos y luego los componentes
 ### Proceso de montaje
 
 ### Que habeis aprendido
@@ -19,7 +19,7 @@ E aprendido a montar y desmontar un ordenador.
 ## INVESTIGACIÓN
 
 ### ¿De que año es el ordenador?
-El ordenador es de 2004 aproximadamente.
+El ordenador es de 2004 2009 aproximadamente.
 ### ¿Funcionaría el ordenador?
 No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
