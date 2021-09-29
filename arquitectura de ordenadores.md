@@ -72,9 +72,6 @@ velocidad:7008 MHz
 Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
 
 
-
-
-
 ## CREACÍON DE UN ORDENADOR
  
  ### componentes
