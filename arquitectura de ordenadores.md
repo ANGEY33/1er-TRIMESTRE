@@ -42,7 +42,21 @@ Las características principales de una tarjeta gráfica son las siguientes:
 
 El procesador gráfico,La memoria gráfica,El tipo de interfaz,Tipos de conexiones externas.
 
+### GPU
+
+Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
+para obtener la imagen final.
+
+
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
+
+Procesador:
+
+Memoria:
+
+Salidas:
+
+
 
 
 
