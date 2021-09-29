@@ -12,4 +12,9 @@ Angel,
 
 ### Descripción de los conponentes
 
-## INVESTIGACIÓN
+### ¿Funcionaria el ordenador?
+
+### ¿Le faltan piezas?
+
+## INVESTIGACIÓ
+
