@@ -58,6 +58,12 @@ Procesador:
 
 Memoria:
 
+Tipo:
+
+Cantidad:
+
+velocidad:
+
 Salidas:
 
 
