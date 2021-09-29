@@ -19,6 +19,6 @@
 ### ¿De que año es el ordenador?
 
 ### ¿Funcionaría el ordenador?
-
+No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
 Si,le falta el disco duro.
