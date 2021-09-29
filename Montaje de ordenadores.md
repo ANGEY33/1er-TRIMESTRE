@@ -9,7 +9,7 @@ Angel,Stiven,Christian,
 
 ### Proceso de desmontaje
 
-### Proceso de desmontaje
+### Proceso de montaje
 
 ### Que habeis aprendido
 E aprendido a montar y desmontar un ordenador.
