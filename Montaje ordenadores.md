@@ -2,5 +2,5 @@
  
  ¿Tiene alguna oieza reutilizable?
  
- ¿DE que año es?
+ ¿De que año es?
  
