@@ -57,6 +57,8 @@ fuente: pdf de clase.
 
 Tengo un disco duro magnético de 1004 bytes. ¿Cúantos sectores tiene si cada sector es de 512 bytes?
 
+100GB = 102 400MG = 104.857.600KB
+
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
 
