@@ -131,13 +131,14 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
 -Interfaz:  SATA 6Gb / s
 
--Tamaño del búfer: 
+-Tamaño del búfer: 64MB
 
 -Velocidad de giro: 
 
 -Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
 ### Reflexión sobre precios
+
 
 
 
