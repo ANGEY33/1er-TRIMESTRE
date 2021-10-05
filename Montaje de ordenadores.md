@@ -50,5 +50,5 @@ Si,le falta el disco duro.
  ### En esta imagen se ouede ver el ventilador
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_122850.jpg)
 
-### 
+### Esto es el disipador
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123126.jpg)
