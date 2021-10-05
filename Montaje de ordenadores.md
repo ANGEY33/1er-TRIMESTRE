@@ -7,7 +7,7 @@ Angel,Stiven,Christian y David.
 ### Quién fue el fotagrafo
 El fotografo fue David
 ### Proceso de desmontaje
-Primero quitamos los tornillos y luego los componentes.
+Primero quitamos los tornillos y luego los componentes.Nos costo mucho sacar los componentes, sobretodo la placa base.
 ### Proceso de montaje
 Pusimos los componentes en su sitio.
 ### Que habeis aprendido
