@@ -125,7 +125,7 @@ yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
 Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
--Capacidad: 480GB
+-Capacidad: 1000GB
 
 -Precio: 42,99
 
@@ -138,6 +138,7 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 -Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
 ### Reflexión sobre precios
+
 
 
 
