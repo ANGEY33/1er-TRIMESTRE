@@ -82,7 +82,27 @@ Tengo un disco duro magnético de 100 Gbytes. ¿Cúantos sectores tiene si cada 
 107.374.182.400 bytes-512 byte = 209.715.200 sectores
 
 Aproximadamente 209 millones de sectores.
+ 
+ 
+## CREACÍON DE UN ORDENADOR
+ 
+ ### componentes
 
+Torre: Tempest Spook RGB USB 3.0 con Ventana Negro: 39,99€
+
+Fuente de alimentación: 450W / 600W: 34€
+
+Placa base: MSI MAG B460M MORTAR: 125,95€
+
+Procesador: Intel Core i5-10400F 2.9GHz: 179,90€
+
+Disco DuroSSD 480GB: 42,99€
+
+Memoria RAM: 8GB DDR4 2666Mhz: 89,99€
+
+Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5: 244,60€
+
+PRECIO TOTAL: 886,82€
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogi?
 
@@ -116,29 +136,7 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 -Velocidad de giro: 
 
 -Tipo: ¿Magnético o de sólido? Es de estado sólido.
- 
- ### Reflexión sobre precios.
- 
- 
-## CREACÍON DE UN ORDENADOR
- 
- ### componentes
 
-Torre: Tempest Spook RGB USB 3.0 con Ventana Negro: 39,99€
-
-Fuente de alimentación: 450W / 600W: 34€
-
-Placa base: MSI MAG B460M MORTAR: 125,95€
-
-Procesador: Intel Core i5-10400F 2.9GHz: 179,90€
-
-Disco DuroSSD 480GB: 42,99€
-
-Memoria RAM: 8GB DDR4 2666Mhz: 89,99€
-
-Tarjeta gráfica: GeForce GTX 1050Ti OC 4GB GDDR5: 244,60€
-
-PRECIO TOTAL: 886,82€
 
 ## TECLADOS 
 Son dispositivos de entrada. Activados por pulsación de teclas incorporan un circito integrado que se comunica con el PC
