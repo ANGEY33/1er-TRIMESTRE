@@ -42,6 +42,7 @@ Si,le falta el disco duro.
 ### En esta imagen se puede ver el disco duro (de el ordenador de otro grupo) se puede ver en la etiqueta que es SAMSUMG y es del 2005 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg)
 
+### En esta imagen esta la fuente de alimentación
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_115323.jpg)
