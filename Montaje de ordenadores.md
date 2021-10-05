@@ -22,9 +22,10 @@ No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
 Si,le falta el disco duro.
 
+### FOTOS DEL ORDENADOR.
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114820.jpg)
 
- ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114925.jpg)
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114925.jpg)
 
 
