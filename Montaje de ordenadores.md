@@ -36,3 +36,5 @@ Si,le falta el disco duro.
 ![](https://github.com/DavidMenCam/1er-trimestre/raw/main/IMG_20210929_121805.jpg)
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg)
