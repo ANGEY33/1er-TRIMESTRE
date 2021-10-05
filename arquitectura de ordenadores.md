@@ -127,7 +127,7 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
 -Capacidad: 1000GB
 
--Precio: 42,99
+-Precio: 42,99€
 
 -Interfaz:  SATA 6Gb / s
 
@@ -139,9 +139,9 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
 ### Reflexión sobre precios
 
+Con aproximadamente 40€ he escogido: Seagate Basic 2.5" 1TB USB 3.2 precio:41,81€
 
-
-
+Con aproximadamente 80€ he escogido:
 
 ## TECLADOS 
 Son dispositivos de entrada. Activados por pulsación de teclas incorporan un circito integrado que se comunica con el PC
