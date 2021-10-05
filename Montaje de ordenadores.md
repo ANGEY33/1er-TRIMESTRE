@@ -22,7 +22,7 @@ No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
 Si,le falta el disco duro.
 
-### FOTOS DEL ORDENADOR.
+
  
 ### Este es el ordeador visto desde fuera
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114820.jpg)
@@ -39,7 +39,7 @@ Si,le falta el disco duro.
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_115323.jpg)
-
+ ### En esta imagen se ouede ver el ventilador
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_122850.jpg)
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123126.jpg)
