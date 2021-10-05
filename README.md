@@ -11,7 +11,7 @@ https://github.com/d-prieto/
  [github del profesor](https://github.com/d-prieto/)
 
 
-(![imagen](https://user-images.githubusercontent.com/90753298/136015664-5976938d-93e6-4ed2-adb6-075fc59184e8.png)
+![imagen](https://user-images.githubusercontent.com/90753298/136015664-5976938d-93e6-4ed2-adb6-075fc59184e8.png)
 
  
   
