@@ -137,6 +137,9 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
 -Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
+### Reflexión sobre precios
+
+
 
 ## TECLADOS 
 Son dispositivos de entrada. Activados por pulsación de teclas incorporan un circito integrado que se comunica con el PC
