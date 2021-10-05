@@ -33,7 +33,7 @@ Si,le falta el disco duro.
 ### Aqui estan todos los componentes que tenia el ordenador.
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123506.jpg)
 
-### Aqui esta la memoria RAM 
+### Aqui esta la memoria RAM  que tiene 4 modulos de 256MB
 ![](https://github.com/DavidMenCam/1er-trimestre/raw/main/IMG_20210929_121805.jpg)
 
 ### Aqui esta la placa base del ordenador que es del 2005
@@ -45,6 +45,7 @@ Si,le falta el disco duro.
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_115323.jpg)
+
  ### En esta imagen se ouede ver el ventilador
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_122850.jpg)
 
