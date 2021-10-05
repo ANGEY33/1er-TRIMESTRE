@@ -21,8 +21,6 @@ El ordenador es de 2004 2009 aproximadamente.
 No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
 Si,le falta el disco duro.
-
-
  
 ### Este es el ordeador visto desde fuera
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114820.jpg)
