@@ -185,6 +185,25 @@ Conversor https://es.convertbinary.com/decimal-a-binario/
 
 Conversor https://es.convertbinary.com/binario-a-decimal/
  
+## Internet y redes 
+
+### Redes sociales LAN
+
+LAN: Local Area LAN
+
+Protocolo TCP/IP: IPv4 tiene 4 bytes y tiene rango de 0 a 250.
+
+Switch: Es el dispositivo digital lógico de interconexión de equipos que opera en la capa de enlace de datos del modelo OSI. Su función es interconectar dos o más host de manera similar a los puentes de red, información de Wikipedia.
+
+Servidor o punto de acceso WIFI tiene protocolo TCP/IP, no tiene por qué tener internet
+
+DHCP: Asignar de forma automática  las ips de los ordenadores conectados, antes se hacia de forma manual.
+
+Ataque DDOS: Pedir a la vez demasiadas cosas a un mismo servidor.
+
+Stream: Arroyo de datos/corriente de agua
+
+Puertos = Puertas: abiertas o cerradas 80 htts  442 https son hipertexto
 
 
 
