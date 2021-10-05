@@ -133,7 +133,7 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
 -Tamaño del búfer: 64MB
 
--Velocidad de giro: 
+-Velocidad de giro: SSD no aplica
 
 -Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
