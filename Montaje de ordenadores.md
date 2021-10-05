@@ -23,7 +23,7 @@ No funcionaria por que no tiene disco duro.
 Si,le falta el disco duro.
 
 
-![](https://raw.githubusercontent.com/ANGEY33/1er-TRIMESTRE/main/home/auxiliarinformatica/Descargas/IMG_20210929_121805.jpg)
+![](https://raw.githubusercontent.com/ANGEY33/1er-TRIMESTRE/Descargas/IMG_20210929_121805.jpg)
 
 
 
