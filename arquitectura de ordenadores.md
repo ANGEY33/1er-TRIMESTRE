@@ -103,19 +103,23 @@ yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
 ### ¿Qué caracteristicas tiene el disco duro que escogi?
 
--Capacidad:
+Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
+
+-Capacidad: 480GB
 
 -Precio: 42,99
 
--Interfaz:
+-Interfaz:  SATA 6Gb / s
 
--Tamaño del búfer: 100x70x7mm
+-Tamaño del búfer: 
 
--Velocidad de giro: SATA 6Gb / s
+-Velocidad de giro: 
 
 -Tipo: ¿Magnético o de sólido? Es de estado sólido.
-
-
+ 
+ ### Reflexión sobre precios.
+ 
+ 
 ## CREACÍON DE UN ORDENADOR
  
  ### componentes
