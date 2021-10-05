@@ -21,3 +21,5 @@ El ordenador es de 2004 2009 aproximadamente.
 No funcionaria por que no tiene disco duro.
 ### ¿Le faltan piezas?
 Si,le falta el disco duro.
+
+(https://drive.google.com/file/d/15EwKKpLY79wb-uHVzk7IL2FsJyLSFYPX/view?usp=sharing)
