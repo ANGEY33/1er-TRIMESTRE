@@ -101,6 +101,10 @@ velocidad:7008 MHz
 Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
 
 
+### ¿Qué caracteristicas tiene el disco duro que escogi?
+
+
+
 ## CREACÍON DE UN ORDENADOR
  
  ### componentes
