@@ -23,7 +23,8 @@ No funcionaria por que no tiene disco duro.
 Si,le falta el disco duro.
 
 ### FOTOS DEL ORDENADOR.
-
+ 
+Este es el ordeador por fuera
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114820.jpg)
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114925.jpg)
