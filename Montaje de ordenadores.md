@@ -33,7 +33,7 @@ Si,le falta el disco duro.
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123506.jpg)
 
 ![](https://github.com/DavidMenCam/1er-trimestre/raw/main/IMG_20210929_121805.jpg)
-### Aqui esta la placa base del ordenador
+### Aqui esta la placa base del ordenador que es del 2005
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
 ### En esta imagen se puede ver el disco duro (de el ordenador de otro grupo) se puede ver en la etiqueta que es SAMSUMG y es del 2005 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg)
