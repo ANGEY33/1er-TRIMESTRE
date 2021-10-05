@@ -28,4 +28,5 @@ Si,le falta el disco duro.
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114925.jpg)
 
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123506.jpg)
 
