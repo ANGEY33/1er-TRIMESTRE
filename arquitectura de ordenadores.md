@@ -88,21 +88,32 @@ Aproximadamente 209 millones de sectores.
 
 yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
-Procesador: eForce GTX 1050 Ti
+-Procesador: eForce GTX 1050 Ti
 
-Memoria: 4GB
+-Memoria: 4GB
 
-Tipo: GDR5
+-Tipo: GDR5
 
-Cantidad: 128 bit
+-Cantidad: 128 bit
 
-velocidad:7008 MHz
+-Velocidad:7008 MHz
 
-Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
+-Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
 
 
 ### ¿Qué caracteristicas tiene el disco duro que escogi?
 
+-Capacidad:
+
+-Precio: 42,99
+
+-Interfaz:
+
+-Tamaño del búfer: 100x70x7mm
+
+-Velocidad de giro: SATA 6Gb / s
+
+-Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
 
 ## CREACÍON DE UN ORDENADOR
