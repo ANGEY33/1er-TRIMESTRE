@@ -9,10 +9,11 @@ El fotografo fue David
 ### Proceso de desmontaje
 Primero quitamos los tornillos y luego los componentes.
 ### Proceso de montaje
- Pusimos los componentes en su sitio.
+Pusimos los componentes en su sitio.
 ### Que habeis aprendido
 He aprendido a montar y desmontar un ordenador.
 ### Descripción componentes
+
 
 ## INVESTIGACIÓN
 
