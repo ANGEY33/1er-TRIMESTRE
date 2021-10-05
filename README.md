@@ -3,7 +3,8 @@
 
 ## Bienvenidos
 
- hola soy angel
+Hola soy angel, tengo 16 años estudie en el instituto Benapres.
+Vengo de Garraf 
 
 https://github.com/d-prieto/ 
 
