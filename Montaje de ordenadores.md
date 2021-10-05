@@ -28,6 +28,6 @@ Este es el ordeador visto desde fuera
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114820.jpg)
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_114925.jpg)
-
+Aqui estan todos los componentes que tenia el ordenador.
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123506.jpg)
 
