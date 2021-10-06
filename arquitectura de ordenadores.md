@@ -6,7 +6,7 @@
 
 ## arquitectura de ordenadores  texto,enlaces fotos
 
- PORTÁTIL.
+### PORTATIL
  
  transformador externo (externo)
  
@@ -14,7 +14,7 @@
  
  bateria (interno)
 
- MICROPROCESADOR
+ ### MICROPROCESADOR
  
  El microprocesador es un circuito integradoformado por millones de transistores, cuya función es procesar los datos y las instruccionesque recibe de la memoria RAM.
 el  microprocesador  genera  una  gran  cantidad  de calorque  es  necesario  evacuar  mediante  un disipador  térmicoy  un ventilador.
