@@ -108,15 +108,15 @@ PRECIO TOTAL: 886,82€
 
 yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
--Procesador: eForce GTX 1050 Ti
+- Procesador: eForce GTX 1050 Ti
 
--Memoria: 4GB
+- Memoria: 4GB
 
--Tipo: GDR5
+- Tipo: GDR5
 
--Cantidad: 128 bit
+- Cantidad: 128 bit
 
--Velocidad:7008 MHz
+- Velocidad:7008 MHz
 
 -Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
 
@@ -125,17 +125,17 @@ yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
 Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
--Capacidad: 1000GB
+- Capacidad: 1000GB
 
--Precio: 42,99€
+- Precio: 42,99€
 
--Interfaz:  SATA 6Gb / s
+- Interfaz:  SATA 6Gb / s
 
--Tamaño del búfer: 64MB
+- Tamaño del búfer: 64MB
 
 -Velocidad de giro: SSD no aplica
 
--Tipo: ¿Magnético o de sólido? Es de estado sólido.
+- Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
 ### Reflexión sobre precios
 
