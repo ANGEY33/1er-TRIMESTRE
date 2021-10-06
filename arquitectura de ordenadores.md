@@ -191,8 +191,6 @@ a: 0610100
 
 Unicode: hasta 1000 000 caracteres
 
-
-
 ### EJERCICIOS DE CONVERSION
 Conversor https://es.convertbinary.com/decimal-a-binario/
  
