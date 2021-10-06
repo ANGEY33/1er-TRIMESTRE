@@ -267,4 +267,25 @@ En informatica, estas frecuenciaspueden referirse habitualmente en:
 Para cambiar la unidad, se utiliza el el sistema, es decir,multiplos y submultiplos en base decimal. Es decir: 1mhz = 1.000.000 hz o
 1khz= 1.000 hz
 
+### El sistema oprerativo
+
+Windows 10 , Linux, IOS, Android, mac OS.
+
+FUNCIONAMIENTOS BASICOS
+
+- Hablar con el Hardwear
+
+- Establezer conexiones (WIFI-LAN-BT-LIG)
+
+- Interzac basica de usuario
+
+- Acceder y administrar discos
+
+- Acceso basico de archivos
+
+- Permitir instalar otros programas
+
+
+
+
 
