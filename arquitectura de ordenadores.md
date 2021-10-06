@@ -269,7 +269,7 @@ Para cambiar la unidad, se utiliza el el sistema, es decir,multiplos y submultip
 
 ### El sistema oprerativo
 
-Windows 10 , Linux, IOS, Android, mac OS.
+Windows(10),Linux(uduntu),IOS,Android,mac OS.
 
 FUNCIONAMIENTOS BASICOS
 
