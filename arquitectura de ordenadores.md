@@ -227,6 +227,10 @@ Stream: Arroyo de datos/corriente de agua
 
 Puertos = Puertas: abiertas o cerradas 80 htts  442 https son hipertexto
 
+### Tarjetas de sonido
+
+Velocidad=Frecuencia-Ancho de banda
+
 
 
 
