@@ -231,7 +231,21 @@ Puertos = Puertas: abiertas o cerradas 80 htts  442 https son hipertexto
 
 Velocidad=Frecuencia-Ancho de banda
 
+Los buses de datos tienen una determinada capacidad de transmision de informacion. Esta capazidad se mide en informacion/segundo.Por ejemplo bits/s,kb/s,mb/s,gb/s
 
+Para pasar de una cantidad a otra,tendremos que multiplicar o dividir
+
+Para pasasr de bit (b) a byte (B) dividimos entre 8, que es el numero de bits en un byte.
+
+Para pasasr de byte a kilo biyte (kb) dividimos entre 1024,,que es el numero de bytes en un kb
+
+Para pasasr de kilo byte a mega byte (mb) dividimos entre 1024, que es el numero de kb en un mb 
+
+Para pasasr de mb a giga byte (gb) dividimos entre 1024, que es el numero dedmb a gb
+
+Si hubiera que psar de bit a mb, se unen varias divisiones,en este caso: primero dividimos entre 8 y luego 2 vezes entre 1024
+
+Para pasar de byte a kilo bite (kb) dividimos entre 1024, que es el numero de bytes en un un kb.
 
 
 
