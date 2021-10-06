@@ -273,9 +273,9 @@ Windows(10),Linux(uduntu),IOS,Android,mac OS.
 
 FUNCIONAMIENTOS BASICOS
 
-- Hablar con el Hardwear
+- Hablar con el Hardwear (drivers,controladores)
 
-- Establezer conexiones (WIFI-LAN-BT-LIG)
+- Establezer conexiones (WIFI-LAN-BT-4G)
 
 - Interzac basica de usuario
 
