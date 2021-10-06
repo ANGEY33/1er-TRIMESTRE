@@ -247,6 +247,7 @@ Si hubiera que psar de bit a mb, se unen varias divisiones,en este caso: primero
 
 Para pasar de byte a kilo bite (kb) dividimos entre 1024, que es el numero de bytes en un un kb.
 
-
+La velozidad de trasmision es igual a la frecuencia de transimision del bus multiplicado por el numero de bits porpaquete.
+El numero de bits por paquete depende de cuantas conexiones tenga.
 
 
