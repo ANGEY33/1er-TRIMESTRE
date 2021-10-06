@@ -243,11 +243,30 @@ Para pasasr de kilo byte a mega byte (mb) dividimos entre 1024, que es el numero
 
 Para pasasr de mb a giga byte (gb) dividimos entre 1024, que es el numero dedmb a gb
 
-Si hubiera que psar de bit a mb, se unen varias divisiones,en este caso: primero dividimos entre 8 y luego 2 vezes entre 1024
+Si hubiera que pasar de bit a mb, se unen varias divisiones,en este caso: primero dividimos entre 8 y luego 2 vezes entre 1024
 
 Para pasar de byte a kilo bite (kb) dividimos entre 1024, que es el numero de bytes en un un kb.
 
 La velozidad de trasmision es igual a la frecuencia de transimision del bus multiplicado por el numero de bits porpaquete.
 El numero de bits por paquete depende de cuantas conexiones tenga.
+
+Unidades de la frecuencia 
+
+La frecuencia se mide en Herts,herzios o segundo a la menos 1 (1/segundos).
+
+1 herzio representa que algo ocurre 1 vez por segundo
+
+0,1 herzios representa que algo ocurre 1 vez cada 10 segundos
+
+5 herzios representa que algo ocurre cada 10 segundos
+
+En informatica, estas frecuenciaspueden referirse habitualmente en:
+
+- Frecuencias de reloj para transmitir datos (mhz-ghz)
+- 
+- Frecuencias de sonido (hz-khz)
+
+Para cambiar la unidad, se utiliza el el sistema, es decir,multiplos y submultiplos en base decimal. Es decir: 1mhz = 1.000.000 hz o
+1khz= 1.000 hz
 
 
