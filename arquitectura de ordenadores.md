@@ -118,7 +118,7 @@ yo escogí esta tarjeta grafica: GeForce GTX 1050Ti OC 4GB GDDR5
 
 - Velocidad:7008 MHz
 
--Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
+- Salidas:  HDMI: 1 HDMI: 2.0b DVI-D: 1
 
 
 ### ¿Qué caracteristicas tiene el disco duro que escogi?
@@ -133,7 +133,7 @@ Yo escogi este disco duro: Kioxia EXCERIA 480GB SSD SATA
 
 - Tamaño del búfer: 64MB
 
--Velocidad de giro: SSD no aplica
+- Velocidad de giro: SSD no aplica
 
 - Tipo: ¿Magnético o de sólido? Es de estado sólido.
 
