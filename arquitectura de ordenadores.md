@@ -263,7 +263,7 @@ La frecuencia se mide en Herts,herzios o segundo a la menos 1 (1/segundos).
 En informatica, estas frecuenciaspueden referirse habitualmente en:
 
 - Frecuencias de reloj para transmitir datos (mhz-ghz)
-- 
+ 
 - Frecuencias de sonido (hz-khz)
 
 Para cambiar la unidad, se utiliza el el sistema, es decir,multiplos y submultiplos en base decimal. Es decir: 1mhz = 1.000.000 hz o
