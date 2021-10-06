@@ -25,4 +25,4 @@ https://github.com/d-prieto/
 
 [MONTAJE DE ORDENADORES](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Montaje%20de%20ordenadores.md)
 
-[Arduino](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Arduino)
+[ARDUINO](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Arduino)
