@@ -10,8 +10,7 @@ Protoboard
 
     Circuito en serie
 
-                                                 13 de Octubre de 2021
-
+                     
 Circuitos eléctricos
 Error de programación
 
