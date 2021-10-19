@@ -68,11 +68,10 @@ Lenguaje de programación
 
     Errores y soluciones
 
-Morse y sus funciones
 
-Morse 1
+## errrores y excepciones
+-BUG: Es un problema en un programa de un ordenador o sistema de software que desencadena un resultado indeseado.
 
-Morse 2
+-GLITCH: Es un tipo de bug grafico.
 
-Morse 3
 
