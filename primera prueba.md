@@ -1,4 +1,4 @@
-###PRIMERA PREUBA
+## RIMERA PREUBA
 
 Primer error de Arduino :
 
