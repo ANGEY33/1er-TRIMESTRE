@@ -10,4 +10,4 @@ Imagen vectorial ---> formas
 
 ## Leon 01
 
-(https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon01.png)
+!(https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon01.png)
