@@ -12,19 +12,19 @@ Imagen vectorial ---> formas
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon01.png)
 
-## Leon 02 ---> 160 x
+## Leon 02 ---> 160 x 211 px
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon02.png)
 
-## Leon 03
+## Leon 03 ---> 350 x 462 px
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon03.png)
 
-## Leon 04
+## Leon 04 ---> 800 x 1057 px
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon04.png)
 
 
-## Leon 05
+## Leon 05 ---> 1500 x 1982 px
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon05.png)
