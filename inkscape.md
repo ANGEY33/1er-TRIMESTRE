@@ -56,3 +56,6 @@ tono/saturación
  
 - Un canal de transparencia (alfa)
 
+CMYK
+
+Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARILLO)y un canal de negro
