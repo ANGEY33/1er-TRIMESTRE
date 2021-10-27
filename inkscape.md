@@ -28,3 +28,14 @@ Leon 03 ---> 350 x 462 px
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon05.png)
 
 # PROPIEDADES DE LAS FORMAS
+
+- LEON1.SVG
+
+- DESAGRUPARLO --> varias formas --> cambiar las propiedades de las formas
+
+3 elementos
+- relleno "oincel"
+- trazado(linea)
+- estilo de trazo(linea)
+
+
