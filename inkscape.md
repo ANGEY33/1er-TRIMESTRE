@@ -48,7 +48,7 @@ tono/saturación
 
  Este sistema mezcla lo siguiente
  
- -Un tono de color en la rueda cromatica (HUE)
+- Un tono de color en la rueda cromatica (HUE)
  
 - Un canal de nivel de saturacion cromatica que va del gris al color (saturacion)
  
