@@ -62,7 +62,7 @@ CMYK
 
 Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARILLO)y un canal de negro.
 
-![imagen])
+![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mitsubishi.svg)
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mitsubishi.svg)
 
