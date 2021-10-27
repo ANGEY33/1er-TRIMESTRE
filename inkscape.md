@@ -36,7 +36,7 @@ Leon 03 ---> 350 x 462 px
 3 elementos
 - relleno "oincel"
 
-![imagen]
+
 
 - trazado(linea)
 - estilo de trazo(linea)
@@ -61,6 +61,11 @@ tono/saturación
 CMYK
 
 Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARILLO)y un canal de negro.
+
+![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/underground.svg)
+
+![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mitsubishi.svg)
+
 
 #OPERCACIONES BOOLEANDAS CON FORMAS
 
