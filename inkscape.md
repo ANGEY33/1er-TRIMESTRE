@@ -35,9 +35,11 @@ Leon 03 ---> 350 x 462 px
 
 3 elementos
 - relleno "oincel"
+
+![imagen]
+
 - trazado(linea)
 - estilo de trazo(linea)
-
 - leon.png
 
 tipos de color
