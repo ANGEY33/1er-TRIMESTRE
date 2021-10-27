@@ -39,3 +39,11 @@ Leon 03 ---> 350 x 462 px
 - estilo de trazo(linea)
 
 - leon.png
+
+tipos de color
+
+HSL
+
+tono/saturación
+
+Mezcla un canal de tono en el circuito cromatico (Hue,tno de color en inglés) con un grado de saturacion de color (gris y color) y un canal de luminosidad(Light)
