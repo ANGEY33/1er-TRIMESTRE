@@ -8,11 +8,11 @@ Imagen vectorial ---> formas
 # RASTERIZAR
 
 
-## Leon 01
+## Leon 01 ---> 16 x 21 px
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon01.png)
 
-## Leon 02
+## Leon 02 ---> 160 x
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon02.png)
 
