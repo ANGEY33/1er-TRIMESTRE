@@ -15,3 +15,11 @@ Imagen vectorial ---> formas
 ## Leon 02
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon02.png)
+
+## Leon 03
+
+![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon03.png)
+
+## Leon 04
+
+![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/leon04.png)
