@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="underground.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="396.70556"
+     inkscape:cy="452.01219"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ff0000;stroke:#18c2d8;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.987531;paint-order:stroke fill markers"
+       id="path896"
+       cx="105.28027"
+       cy="145.97997"
+       rx="79.012192"
+       ry="75.31115" />
+    <ellipse
+       style="fill:#ffffff;stroke:#18c2d8;stroke-width:1.05694;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.987531;paint-order:stroke fill markers"
+       id="path1488"
+       cx="104.88107"
+       cy="146.01233"
+       rx="56.2019"
+       ry="49.923611" />
+    <rect
+       style="fill:#0000ff;stroke:#18c2d8;stroke-width:1.03767;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.987531;paint-order:stroke fill markers"
+       id="rect1534"
+       width="184.24631"
+       height="45.066353"
+       x="11.697844"
+       y="123.64314" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.6876px;line-height:1.25;font-family:ariañ;-inkscape-font-specification:ariañ;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.59219"
+       x="18.55769"
+       y="142.20531"
+       id="text98995"
+       transform="scale(0.91128259,1.0973544)"><tspan
+         sodipodi:role="line"
+         id="tspan98993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.6876px;font-family:ariañ;-inkscape-font-specification:ariañ;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.59219"
+         x="18.55769"
+         y="142.20531">UNDERGROUND</tspan></text>
+  </g>
+</svg>
