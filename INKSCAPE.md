@@ -1,3 +1,4 @@
+#Inkscape
 
 Imagen ráster ---> píxeles
 
