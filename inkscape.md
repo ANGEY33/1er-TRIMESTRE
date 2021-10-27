@@ -47,11 +47,12 @@ HSL
 tono/saturación
 
  Este sistema mezcla lo siguiente
- Un tono de color en la rueda cromatica (HUE)
  
- Un canal de nivel de saturacion cromatica que va del gris al color (saturacion)
+ -Un tono de color en la rueda cromatica (HUE)
  
- Un canal de luminosidad de color (Light)
+- Un canal de nivel de saturacion cromatica que va del gris al color (saturacion)
  
- Un canal de transparencia (alfa)
+- Un canal de luminosidad de color (Light)
+ 
+- Un canal de transparencia (alfa)
 
