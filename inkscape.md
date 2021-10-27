@@ -38,4 +38,4 @@ Leon 03 ---> 350 x 462 px
 - trazado(linea)
 - estilo de trazo(linea)
 
-
+- leon.png
