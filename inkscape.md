@@ -58,4 +58,6 @@ tono/saturación
 
 CMYK
 
-Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARILLO)y un canal de negro
+Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARILLO)y un canal de negro.
+
+
