@@ -62,6 +62,13 @@ CMYK
 
 Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARILLO)y un canal de negro.
 
+## COMO AJUSTAR EL LIENZO EN INKSCAPE
+
+- Archivo ---> Propiedades del documento Control+shift+D.
+ 
+- Ajustar pagina a contenido botón ajustar página a contenido o selección.
+           
+
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mitsubishi.svg)
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/underground.svg)
