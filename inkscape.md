@@ -5,6 +5,6 @@ Imagen ráster ---> píxeles
 Imagen vectorial ---> formas
 
 
-# REASTERIZAR
+# RASTERIZAR
 
-(!)(/home/auxiliarinformatica/Documentos/leon01.png)
+
