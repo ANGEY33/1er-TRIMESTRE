@@ -6,15 +6,7 @@ avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
 
 El error se debe a que no puede acceder al puerto.
 Protoboard
-
-    Circuito en paralelo
-
-    Circuito en serie
-
-                     
-Circuitos eléctricos
-Error de programación
-
+                    
 Intentamos programarl programa de ejemplo blink.ino pero el programa avrdude lanzó una excepción y detuvo el programa. Esto por un tema de permisos de usuario.
 
 En Linux hay dos tipos de usuario: El usuario y el superusuario.
@@ -64,11 +56,6 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 5V ÷ 0 Ohm = ∞ A (Cortocircuito) ---> Evitar
 Lenguaje de programación
-
-    Como subir un programa
-
-    Errores y soluciones
-
 
 ## errrores y excepciones
 -BUG: Es un problema en un programa de un ordenador o sistema de software que desencadena un resultado indeseado.
