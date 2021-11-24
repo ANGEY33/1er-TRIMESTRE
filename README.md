@@ -3,8 +3,8 @@
 
 ## Bienvenidos
 
-Hola soy angel, tengo 16 años·
-Vengo de Garraf 
+Hola soy angel, tengo 16 años.
+ 
 
  [github del profesor](https://github.com/d-prieto/)
 
