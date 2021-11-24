@@ -14,11 +14,7 @@ Primeros circuitos
 Circuito simple
 
 Este pese a funcionar y dar luz genera dos problemas:
-
-    Se calienta y es incómodo de tocar
-
-    Puede fundir el LED
-
+ 
 Circuito en serie
 
 Si desconectamos una parte no funciona
