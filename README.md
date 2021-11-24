@@ -24,6 +24,5 @@ Vengo de Garraf
 
 [INKSCAPE](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/inkscape.md)
 
-[PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
-
 [3D](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/3D.md)
+
