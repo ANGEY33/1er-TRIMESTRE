@@ -3,7 +3,7 @@
 
 ## Bienvenidos
 
-Hola soy angel, tengo 16 años estudie en el instituto Benapres.
+Hola soy angel, tengo 16 años·
 Vengo de Garraf 
 
  [github del profesor](https://github.com/d-prieto/)
@@ -21,3 +21,5 @@ Vengo de Garraf
 [CLASE DE BINARIO](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
 
 [MONTAJE DE ORDENADORES](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Montaje%20de%20ordenadores.md)
+
+[INKSCAPE](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/inkscape.md)
