@@ -23,3 +23,5 @@ Vengo de Garraf
 [MONTAJE DE ORDENADORES](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Montaje%20de%20ordenadores.md)
 
 [INKSCAPE](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/inkscape.md)
+
+[PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
