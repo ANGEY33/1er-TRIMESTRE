@@ -20,7 +20,7 @@ Vengo de Garraf
 
 [3.CLASE DE BINARIO](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
 
-[4,MONTAJE DE ORDENADORES](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Montaje%20de%20ordenadores.md)
+[4.MONTAJE DE ORDENADORES](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Montaje%20de%20ordenadores.md)
 
 [5.INKSCAPE](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/inkscape.md)
 
