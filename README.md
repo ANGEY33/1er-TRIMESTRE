@@ -24,5 +24,5 @@ Hola soy angel, tengo 16 años.
 
 [5.INKSCAPE](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/inkscape.md)
 
-[6.3D](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/3D.md)
+[6.3D](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/3D.md) 
 
