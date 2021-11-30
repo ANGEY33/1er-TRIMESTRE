@@ -74,7 +74,7 @@ Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARI
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mitsubishi.svg)
 
-### UNDERGROUND
+## UNDERGROUND
 
  ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/UNDERGROUND.svg)
 
