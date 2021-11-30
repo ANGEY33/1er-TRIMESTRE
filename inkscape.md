@@ -86,3 +86,16 @@ Luego hacemos un rectangulo azul y lo alineamos todo con Objeto/Alinear y distri
 
 ![imagen](https://user-images.githubusercontent.com/90753298/144021716-34747c3d-db61-45cf-bccb-c849011c4b1e.png)
 
+Ahora con el creador de texto escribimos la palabra "UNDERGROUND"
+
+![imagen](https://user-images.githubusercontent.com/90753298/144021905-9849b408-fd42-4346-a2c1-450d04bb1f10.png)
+
+Selecionamos la palabra "UNDERGROUND", y utilizas la herramienta texto y tipografia de la derecha de la pantalla, selecionas la tipografia Arial y estilo negrita
+
+![imagen](https://user-images.githubusercontent.com/90753298/144022802-3c38cc26-e1fc-41ee-b500-b89bd9f6716e.png)
+
+Despues selecionas todo y lo alineas con Objeto/Alinear y distribuir
+
+![imagen](https://user-images.githubusercontent.com/90753298/144023130-41d07ca7-a238-41e9-b721-40ae91142d60.png)
+
+
