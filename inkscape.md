@@ -69,8 +69,18 @@ Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARI
 - Ajustar pagina a contenido botón ajustar página a contenido o selección.
            
  Este es el PDF: https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf
+ 
+### MITSUBISHI
 
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/mitsubishi.svg)
 
- ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/UNDERGROUND.svg)
+### UNDERGROUND
+
+ ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/ UNDERGROUND.svg)
+ 
+ 
+Primero hacemos dos circulos, (uno rojo y otro blanco superpuesto) nada complicado
+
+
+![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Captura%20de%20pantalla%20de%202021-11-30%2009-56-39.pn
 
