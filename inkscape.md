@@ -82,4 +82,7 @@ Primero hacemos dos circulos, (uno rojo y otro blanco superpuesto) nada complica
 
 ![imagen](https://user-images.githubusercontent.com/90753298/144021424-b8397f38-b03c-48b0-879d-3edb8c261c3e.png)
 
+Luego hacemos un rectangulo azul y lo alineamos todo con Objeto/Alinear y distribuir
+
+![imagen](https://user-images.githubusercontent.com/90753298/144021716-34747c3d-db61-45cf-bccb-c849011c4b1e.png)
 
