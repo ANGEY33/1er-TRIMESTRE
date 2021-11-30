@@ -76,7 +76,7 @@ Este sistema mezcla los tres colores primarios substractivos (CYAN,MAGENTA,AMARI
 
 ### UNDERGROUND
 
- ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/ UNDERGROUND.svg)
+ ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/UNDERGROUND.svg)
 
 Primero hacemos dos circulos, (uno rojo y otro blanco superpuesto) nada complicado
 ![imagen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Captura%20de%20pantalla%20de%202021-11-30%2009-56-39.pn)
